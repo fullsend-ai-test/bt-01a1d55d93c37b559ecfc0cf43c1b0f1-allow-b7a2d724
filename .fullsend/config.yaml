@@ -10,5 +10,3 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-authorization:
-    - provider: owners_file
